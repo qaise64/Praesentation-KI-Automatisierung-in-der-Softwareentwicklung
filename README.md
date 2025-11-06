@@ -2,7 +2,7 @@
 
 Hallo! Dies ist eine Praesentation, die ich im Juni 2025 an der Hochschule Niederrhein gehalten habe. Es geht um ein Thema, das mich persoenlich sehr interessiert: den Einfluss von Kuenstlicher Intelligenz auf den *gesamten* Software Development Lifecycle (SDLC).
 
-[**Hier geht's direkt zur vollstaendigen Praesentation (PDF) – sie oeffnet im Browser.**](./SoftwareDevelopmentAutomation.pdf)
+[**Hier geht's direkt zur vollstaendigen Praesentation (PDF) – sie oeffnet im Browser.**](./SoftwareDevelopment_automation.pdf)
 
 ## Worum geht es?
 
