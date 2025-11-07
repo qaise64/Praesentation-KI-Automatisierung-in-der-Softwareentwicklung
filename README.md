@@ -1,6 +1,6 @@
 # Praesentation: KI-Automatisierung in der Softwareentwicklung
 
-Hallo! Dies ist eine Praesentation, die ich im Juni 2025 an der Hochschule Niederrhein gehalten habe. Das Thema ist der Einfluss von Kuenstlicher Intelligenz auf den *gesamten* Software Development Lifecycle (SDLC).
+Dies ist eine Praesentation, die ich im Juni 2025 an der Hochschule Niederrhein gehalten habe. Das Thema ist der Einfluss von Kuenstlicher Intelligenz auf den *gesamten* Software Development Lifecycle (SDLC).
 
 [**Hier geht's direkt zur vollstaendigen Praesentation (PDF) – sie oeffnet im Browser.**](./SoftwareDevelopment_automation.pdf)
 
